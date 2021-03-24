@@ -54,9 +54,8 @@ footer {
     display: flex;
     justify-content: center;
 }
-
-
-span {
-    display: flex;
-    justify-content: center;
-}
+ ul {
+    background-image: url("https://forestparkconservancy.org/wp-content/uploads/2019/11/The-Park-2-300x225.jpg");
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+ }
